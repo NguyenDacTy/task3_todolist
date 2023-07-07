@@ -1,4 +1,3 @@
-import "antd/dist/reset.css";
 import MainLayout from "./layouts/MainLayout";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { ROUTES } from "./constants/routes";
